@@ -1,0 +1,13 @@
+E:\project\test lab\Mod3_Lab1\AssessmentLab\bin\Debug\netcoreapp3.1\AssessmentLab.exe
+E:\project\test lab\Mod3_Lab1\AssessmentLab\bin\Debug\netcoreapp3.1\AssessmentLab.deps.json
+E:\project\test lab\Mod3_Lab1\AssessmentLab\bin\Debug\netcoreapp3.1\AssessmentLab.runtimeconfig.json
+E:\project\test lab\Mod3_Lab1\AssessmentLab\bin\Debug\netcoreapp3.1\AssessmentLab.runtimeconfig.dev.json
+E:\project\test lab\Mod3_Lab1\AssessmentLab\bin\Debug\netcoreapp3.1\AssessmentLab.dll
+E:\project\test lab\Mod3_Lab1\AssessmentLab\bin\Debug\netcoreapp3.1\AssessmentLab.pdb
+E:\project\test lab\Mod3_Lab1\AssessmentLab\obj\Debug\netcoreapp3.1\AssessmentLab.csprojAssemblyReference.cache
+E:\project\test lab\Mod3_Lab1\AssessmentLab\obj\Debug\netcoreapp3.1\AssessmentLab.AssemblyInfoInputs.cache
+E:\project\test lab\Mod3_Lab1\AssessmentLab\obj\Debug\netcoreapp3.1\AssessmentLab.AssemblyInfo.cs
+E:\project\test lab\Mod3_Lab1\AssessmentLab\obj\Debug\netcoreapp3.1\AssessmentLab.csproj.CoreCompileInputs.cache
+E:\project\test lab\Mod3_Lab1\AssessmentLab\obj\Debug\netcoreapp3.1\AssessmentLab.dll
+E:\project\test lab\Mod3_Lab1\AssessmentLab\obj\Debug\netcoreapp3.1\AssessmentLab.pdb
+E:\project\test lab\Mod3_Lab1\AssessmentLab\obj\Debug\netcoreapp3.1\AssessmentLab.genruntimeconfig.cache

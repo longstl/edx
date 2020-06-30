@@ -1,0 +1,12 @@
+E:\project\test lab\Lab2-120\ModAssignment\bin\Debug\netcoreapp3.1\ModAssignment.exe
+E:\project\test lab\Lab2-120\ModAssignment\bin\Debug\netcoreapp3.1\ModAssignment.deps.json
+E:\project\test lab\Lab2-120\ModAssignment\bin\Debug\netcoreapp3.1\ModAssignment.runtimeconfig.json
+E:\project\test lab\Lab2-120\ModAssignment\bin\Debug\netcoreapp3.1\ModAssignment.runtimeconfig.dev.json
+E:\project\test lab\Lab2-120\ModAssignment\bin\Debug\netcoreapp3.1\ModAssignment.dll
+E:\project\test lab\Lab2-120\ModAssignment\bin\Debug\netcoreapp3.1\ModAssignment.pdb
+E:\project\test lab\Lab2-120\ModAssignment\obj\Debug\netcoreapp3.1\ModAssignment.AssemblyInfoInputs.cache
+E:\project\test lab\Lab2-120\ModAssignment\obj\Debug\netcoreapp3.1\ModAssignment.AssemblyInfo.cs
+E:\project\test lab\Lab2-120\ModAssignment\obj\Debug\netcoreapp3.1\ModAssignment.csproj.CoreCompileInputs.cache
+E:\project\test lab\Lab2-120\ModAssignment\obj\Debug\netcoreapp3.1\ModAssignment.dll
+E:\project\test lab\Lab2-120\ModAssignment\obj\Debug\netcoreapp3.1\ModAssignment.pdb
+E:\project\test lab\Lab2-120\ModAssignment\obj\Debug\netcoreapp3.1\ModAssignment.genruntimeconfig.cache

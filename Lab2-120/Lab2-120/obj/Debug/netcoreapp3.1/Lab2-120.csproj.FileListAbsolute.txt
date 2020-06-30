@@ -1,0 +1,12 @@
+E:\project\test lab\Lab2-120\Lab2-120\bin\Debug\netcoreapp3.1\Lab2-120.exe
+E:\project\test lab\Lab2-120\Lab2-120\bin\Debug\netcoreapp3.1\Lab2-120.deps.json
+E:\project\test lab\Lab2-120\Lab2-120\bin\Debug\netcoreapp3.1\Lab2-120.runtimeconfig.json
+E:\project\test lab\Lab2-120\Lab2-120\bin\Debug\netcoreapp3.1\Lab2-120.runtimeconfig.dev.json
+E:\project\test lab\Lab2-120\Lab2-120\bin\Debug\netcoreapp3.1\Lab2-120.dll
+E:\project\test lab\Lab2-120\Lab2-120\bin\Debug\netcoreapp3.1\Lab2-120.pdb
+E:\project\test lab\Lab2-120\Lab2-120\obj\Debug\netcoreapp3.1\Lab2-120.AssemblyInfoInputs.cache
+E:\project\test lab\Lab2-120\Lab2-120\obj\Debug\netcoreapp3.1\Lab2-120.AssemblyInfo.cs
+E:\project\test lab\Lab2-120\Lab2-120\obj\Debug\netcoreapp3.1\Lab2-120.csproj.CoreCompileInputs.cache
+E:\project\test lab\Lab2-120\Lab2-120\obj\Debug\netcoreapp3.1\Lab2-120.dll
+E:\project\test lab\Lab2-120\Lab2-120\obj\Debug\netcoreapp3.1\Lab2-120.pdb
+E:\project\test lab\Lab2-120\Lab2-120\obj\Debug\netcoreapp3.1\Lab2-120.genruntimeconfig.cache

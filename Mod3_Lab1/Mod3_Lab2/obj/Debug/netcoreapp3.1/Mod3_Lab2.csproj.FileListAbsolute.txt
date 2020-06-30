@@ -1,0 +1,13 @@
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\bin\Debug\netcoreapp3.1\Mod3_Lab2.exe
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\bin\Debug\netcoreapp3.1\Mod3_Lab2.deps.json
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\bin\Debug\netcoreapp3.1\Mod3_Lab2.runtimeconfig.json
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\bin\Debug\netcoreapp3.1\Mod3_Lab2.runtimeconfig.dev.json
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\bin\Debug\netcoreapp3.1\Mod3_Lab2.dll
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\bin\Debug\netcoreapp3.1\Mod3_Lab2.pdb
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\obj\Debug\netcoreapp3.1\Mod3_Lab2.csprojAssemblyReference.cache
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\obj\Debug\netcoreapp3.1\Mod3_Lab2.AssemblyInfoInputs.cache
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\obj\Debug\netcoreapp3.1\Mod3_Lab2.AssemblyInfo.cs
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\obj\Debug\netcoreapp3.1\Mod3_Lab2.csproj.CoreCompileInputs.cache
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\obj\Debug\netcoreapp3.1\Mod3_Lab2.dll
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\obj\Debug\netcoreapp3.1\Mod3_Lab2.pdb
+E:\project\test lab\Mod3_Lab1\Mod3_Lab2\obj\Debug\netcoreapp3.1\Mod3_Lab2.genruntimeconfig.cache
