@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Delete";
+}
+
+@model Lab4.Models.City
+
+<h3>Product Info</h3>
+<form method="post" asp-controller="City" asp-action="Delete">
+    <table cellpadding="2" cellspacing="2">
+        <tr>
+            <td>Id</td>
+            <td>
+                <input type="text" asp-for="@Model.Id" disabled />
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>
+                <input type="submit" value="Delete" />
+            </td>
+        </tr>
+    </table>
+</form>
+

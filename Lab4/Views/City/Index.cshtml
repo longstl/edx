@@ -1,0 +1,21 @@
+﻿@model List<Lab4.Models.City>
+
+<h1>List of Cities</h1>
+
+<a asp-action="AddorEdit">Add</a>
+<table border="1" cellpadding="11">
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.CountryCode</td>
+            <td>@item.District</td>
+            <td>@item.Population</td>
+            <td>
+                <a asp-action="Detail" asp-route-id="@item.Id">Detail</a>
+                <a asp-action="AddorEdit" asp-route-id="@item.Id">Edit</a>
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
